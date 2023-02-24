@@ -1,0 +1,202 @@
+D:\ThuchanhCsharp\BaitapthuchanhSV\Chuong 6\QuanLyBanHang\QuanLyBanHang\bin\Debug\QuanLyBanHang.exe.config
+D:\ThuchanhCsharp\BaitapthuchanhSV\Chuong 6\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.Properties.Resources.resources
+D:\ThuchanhCsharp\BaitapthuchanhSV\Chuong 6\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.csproj.GenerateResource.Cache
+D:\ThuchanhCsharp\BaitapthuchanhSV\Chuong 6\QuanLyBanHang\QuanLyBanHang\bin\Debug\QuanLyBanHang.exe
+D:\ThuchanhCsharp\BaitapthuchanhSV\Chuong 6\QuanLyBanHang\QuanLyBanHang\bin\Debug\QuanLyBanHang.pdb
+D:\ThuchanhCsharp\BaitapthuchanhSV\Chuong 6\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.exe
+D:\ThuchanhCsharp\BaitapthuchanhSV\Chuong 6\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.pdb
+D:\ThuchanhCsharp\BaitapthuchanhSV\Chuong 6\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.csprojResolveAssemblyReference.cache
+D:\ThuchanhCsharp\BaitapthuchanhSV\Chuong 6\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmKhachHang.resources
+D:\ThuchanhCsharp\BaitapthuchanhSV\Chuong 6\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmThanhPho.resources
+D:\ThuchanhCsharp\BaitapthuchanhSV\Chuong 6\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmSanPham.resources
+D:\ThuchanhCsharp\BaitapthuchanhSV\Chuong 6\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmNhanVien.resources
+D:\ThuchanhCsharp\BaitapthuchanhSV\Chuong 6\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmHoaDon.resources
+D:\ThuchanhCsharp\BaitapthuchanhSV\Chuong 6\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmKhachHang2.resources
+D:\ThuchanhCsharp\BaitapthuchanhSV\Chuong 7\QuanLyBanHang\QuanLyBanHang\bin\Debug\QuanLyBanHang.exe.config
+D:\ThuchanhCsharp\BaitapthuchanhSV\Chuong 7\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.exe
+D:\ThuchanhCsharp\BaitapthuchanhSV\Chuong 7\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.pdb
+D:\ThuchanhCsharp\BaitapthuchanhSV\Chuong 7\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.csprojResolveAssemblyReference.cache
+D:\ThuchanhCsharp\BaitapthuchanhSV\Chuong 7\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.Form1.resources
+D:\ThuchanhCsharp\BaitapthuchanhSV\Chuong 7\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.Form2.resources
+D:\ThuchanhCsharp\BaitapthuchanhSV\Chuong 7\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmHoaDon.resources
+D:\ThuchanhCsharp\BaitapthuchanhSV\Chuong 7\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmKhachHang.resources
+D:\ThuchanhCsharp\BaitapthuchanhSV\Chuong 7\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmNhanVien.resources
+D:\ThuchanhCsharp\BaitapthuchanhSV\Chuong 7\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmSanPham.resources
+D:\ThuchanhCsharp\BaitapthuchanhSV\Chuong 7\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmThanhPho.resources
+D:\ThuchanhCsharp\BaitapthuchanhSV\Chuong 7\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.Properties.Resources.resources
+D:\ThuchanhCsharp\BaitapthuchanhSV\Chuong 7\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.csproj.GenerateResource.Cache
+D:\ThuchanhCsharp\BaitapthuchanhSV\Chuong 7\QuanLyBanHang\QuanLyBanHang\bin\Debug\QuanLyBanHang.exe
+D:\ThuchanhCsharp\BaitapthuchanhSV\Chuong 7\QuanLyBanHang\QuanLyBanHang\bin\Debug\QuanLyBanHang.pdb
+D:\ThuchanhCsharp\BaitapthuchanhSV\Chuong 7\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.Form3.resources
+D:\ThuchanhCsharp\BaitapthuchanhSV\Chuong 7\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmKhachHangTheoThanhPho.resources
+D:\ThuchanhCsharp\BaitapthuchanhSV\Chuong 7\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmHoaDonTheoKhachHang.resources
+D:\ThuchanhCsharp\BaitapthuchanhSV\Chuong 7\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmTacGia.resources
+D:\Đảm bảo chất lượng & Kiểm thử phần mềm\B1906430\Kiểm thử thủ công\Thuc hanh kiem thu PM thu cong cho SV\QuanLyBanHang 1.0\QuanLyBanHang\bin\Debug\QuanLyBanHang.exe.config
+D:\Đảm bảo chất lượng & Kiểm thử phần mềm\B1906430\Kiểm thử thủ công\Thuc hanh kiem thu PM thu cong cho SV\QuanLyBanHang 1.0\QuanLyBanHang\bin\Debug\QuanLyBanHang.exe
+D:\Đảm bảo chất lượng & Kiểm thử phần mềm\B1906430\Kiểm thử thủ công\Thuc hanh kiem thu PM thu cong cho SV\QuanLyBanHang 1.0\QuanLyBanHang\bin\Debug\QuanLyBanHang.pdb
+D:\Đảm bảo chất lượng & Kiểm thử phần mềm\B1906430\Kiểm thử thủ công\Thuc hanh kiem thu PM thu cong cho SV\QuanLyBanHang 1.0\QuanLyBanHang\obj\Debug\QuanLyBanHang.csproj.AssemblyReference.cache
+D:\Đảm bảo chất lượng & Kiểm thử phần mềm\B1906430\Kiểm thử thủ công\Thuc hanh kiem thu PM thu cong cho SV\QuanLyBanHang 1.0\QuanLyBanHang\obj\Debug\QuanLyBanHang.Form1.resources
+D:\Đảm bảo chất lượng & Kiểm thử phần mềm\B1906430\Kiểm thử thủ công\Thuc hanh kiem thu PM thu cong cho SV\QuanLyBanHang 1.0\QuanLyBanHang\obj\Debug\QuanLyBanHang.Form2.resources
+D:\Đảm bảo chất lượng & Kiểm thử phần mềm\B1906430\Kiểm thử thủ công\Thuc hanh kiem thu PM thu cong cho SV\QuanLyBanHang 1.0\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmHoaDon.resources
+D:\Đảm bảo chất lượng & Kiểm thử phần mềm\B1906430\Kiểm thử thủ công\Thuc hanh kiem thu PM thu cong cho SV\QuanLyBanHang 1.0\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmHoaDonTheoKhachHang.resources
+D:\Đảm bảo chất lượng & Kiểm thử phần mềm\B1906430\Kiểm thử thủ công\Thuc hanh kiem thu PM thu cong cho SV\QuanLyBanHang 1.0\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmKhachHangTheoThanhPho.resources
+D:\Đảm bảo chất lượng & Kiểm thử phần mềm\B1906430\Kiểm thử thủ công\Thuc hanh kiem thu PM thu cong cho SV\QuanLyBanHang 1.0\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmKhachHang.resources
+D:\Đảm bảo chất lượng & Kiểm thử phần mềm\B1906430\Kiểm thử thủ công\Thuc hanh kiem thu PM thu cong cho SV\QuanLyBanHang 1.0\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmTacGia.resources
+D:\Đảm bảo chất lượng & Kiểm thử phần mềm\B1906430\Kiểm thử thủ công\Thuc hanh kiem thu PM thu cong cho SV\QuanLyBanHang 1.0\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmThanhPho.resources
+D:\Đảm bảo chất lượng & Kiểm thử phần mềm\B1906430\Kiểm thử thủ công\Thuc hanh kiem thu PM thu cong cho SV\QuanLyBanHang 1.0\QuanLyBanHang\obj\Debug\QuanLyBanHang.Form3.resources
+D:\Đảm bảo chất lượng & Kiểm thử phần mềm\B1906430\Kiểm thử thủ công\Thuc hanh kiem thu PM thu cong cho SV\QuanLyBanHang 1.0\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmNhanVien.resources
+D:\Đảm bảo chất lượng & Kiểm thử phần mềm\B1906430\Kiểm thử thủ công\Thuc hanh kiem thu PM thu cong cho SV\QuanLyBanHang 1.0\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmSanPham.resources
+D:\Đảm bảo chất lượng & Kiểm thử phần mềm\B1906430\Kiểm thử thủ công\Thuc hanh kiem thu PM thu cong cho SV\QuanLyBanHang 1.0\QuanLyBanHang\obj\Debug\QuanLyBanHang.Properties.Resources.resources
+D:\Đảm bảo chất lượng & Kiểm thử phần mềm\B1906430\Kiểm thử thủ công\Thuc hanh kiem thu PM thu cong cho SV\QuanLyBanHang 1.0\QuanLyBanHang\obj\Debug\QuanLyBanHang.csproj.GenerateResource.cache
+D:\Đảm bảo chất lượng & Kiểm thử phần mềm\B1906430\Kiểm thử thủ công\Thuc hanh kiem thu PM thu cong cho SV\QuanLyBanHang 1.0\QuanLyBanHang\obj\Debug\QuanLyBanHang.csproj.CoreCompileInputs.cache
+D:\Đảm bảo chất lượng & Kiểm thử phần mềm\B1906430\Kiểm thử thủ công\Thuc hanh kiem thu PM thu cong cho SV\QuanLyBanHang 1.0\QuanLyBanHang\obj\Debug\QuanLyBanHang.exe
+D:\Đảm bảo chất lượng & Kiểm thử phần mềm\B1906430\Kiểm thử thủ công\Thuc hanh kiem thu PM thu cong cho SV\QuanLyBanHang 1.0\QuanLyBanHang\obj\Debug\QuanLyBanHang.pdb
+D:\Đảm bảo chất lượng & Kiểm thử phần mềm\B1906430\Kiểm thử thủ công\Thuc hanh kiem thu PM thu cong cho SV\QuanLyBanHang 1.0 - Copy (2)\QuanLyBanHang\bin\Debug\QuanLyBanHang.exe.config
+D:\Đảm bảo chất lượng & Kiểm thử phần mềm\B1906430\Kiểm thử thủ công\Thuc hanh kiem thu PM thu cong cho SV\QuanLyBanHang 1.0 - Copy (2)\QuanLyBanHang\bin\Debug\QuanLyBanHang.exe
+D:\Đảm bảo chất lượng & Kiểm thử phần mềm\B1906430\Kiểm thử thủ công\Thuc hanh kiem thu PM thu cong cho SV\QuanLyBanHang 1.0 - Copy (2)\QuanLyBanHang\bin\Debug\QuanLyBanHang.pdb
+D:\Đảm bảo chất lượng & Kiểm thử phần mềm\B1906430\Kiểm thử thủ công\Thuc hanh kiem thu PM thu cong cho SV\QuanLyBanHang 1.0 - Copy (2)\QuanLyBanHang\obj\Debug\QuanLyBanHang.csproj.AssemblyReference.cache
+D:\Đảm bảo chất lượng & Kiểm thử phần mềm\B1906430\Kiểm thử thủ công\Thuc hanh kiem thu PM thu cong cho SV\QuanLyBanHang 1.0 - Copy (2)\QuanLyBanHang\obj\Debug\QuanLyBanHang.Form1.resources
+D:\Đảm bảo chất lượng & Kiểm thử phần mềm\B1906430\Kiểm thử thủ công\Thuc hanh kiem thu PM thu cong cho SV\QuanLyBanHang 1.0 - Copy (2)\QuanLyBanHang\obj\Debug\QuanLyBanHang.Form2.resources
+D:\Đảm bảo chất lượng & Kiểm thử phần mềm\B1906430\Kiểm thử thủ công\Thuc hanh kiem thu PM thu cong cho SV\QuanLyBanHang 1.0 - Copy (2)\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmHoaDon.resources
+D:\Đảm bảo chất lượng & Kiểm thử phần mềm\B1906430\Kiểm thử thủ công\Thuc hanh kiem thu PM thu cong cho SV\QuanLyBanHang 1.0 - Copy (2)\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmHoaDonTheoKhachHang.resources
+D:\Đảm bảo chất lượng & Kiểm thử phần mềm\B1906430\Kiểm thử thủ công\Thuc hanh kiem thu PM thu cong cho SV\QuanLyBanHang 1.0 - Copy (2)\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmKhachHangTheoThanhPho.resources
+D:\Đảm bảo chất lượng & Kiểm thử phần mềm\B1906430\Kiểm thử thủ công\Thuc hanh kiem thu PM thu cong cho SV\QuanLyBanHang 1.0 - Copy (2)\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmKhachHang.resources
+D:\Đảm bảo chất lượng & Kiểm thử phần mềm\B1906430\Kiểm thử thủ công\Thuc hanh kiem thu PM thu cong cho SV\QuanLyBanHang 1.0 - Copy (2)\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmTacGia.resources
+D:\Đảm bảo chất lượng & Kiểm thử phần mềm\B1906430\Kiểm thử thủ công\Thuc hanh kiem thu PM thu cong cho SV\QuanLyBanHang 1.0 - Copy (2)\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmThanhPho.resources
+D:\Đảm bảo chất lượng & Kiểm thử phần mềm\B1906430\Kiểm thử thủ công\Thuc hanh kiem thu PM thu cong cho SV\QuanLyBanHang 1.0 - Copy (2)\QuanLyBanHang\obj\Debug\QuanLyBanHang.Form3.resources
+D:\Đảm bảo chất lượng & Kiểm thử phần mềm\B1906430\Kiểm thử thủ công\Thuc hanh kiem thu PM thu cong cho SV\QuanLyBanHang 1.0 - Copy (2)\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmNhanVien.resources
+D:\Đảm bảo chất lượng & Kiểm thử phần mềm\B1906430\Kiểm thử thủ công\Thuc hanh kiem thu PM thu cong cho SV\QuanLyBanHang 1.0 - Copy (2)\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmSanPham.resources
+D:\Đảm bảo chất lượng & Kiểm thử phần mềm\B1906430\Kiểm thử thủ công\Thuc hanh kiem thu PM thu cong cho SV\QuanLyBanHang 1.0 - Copy (2)\QuanLyBanHang\obj\Debug\QuanLyBanHang.Properties.Resources.resources
+D:\Đảm bảo chất lượng & Kiểm thử phần mềm\B1906430\Kiểm thử thủ công\Thuc hanh kiem thu PM thu cong cho SV\QuanLyBanHang 1.0 - Copy (2)\QuanLyBanHang\obj\Debug\QuanLyBanHang.csproj.GenerateResource.cache
+D:\Đảm bảo chất lượng & Kiểm thử phần mềm\B1906430\Kiểm thử thủ công\Thuc hanh kiem thu PM thu cong cho SV\QuanLyBanHang 1.0 - Copy (2)\QuanLyBanHang\obj\Debug\QuanLyBanHang.csproj.CoreCompileInputs.cache
+D:\Đảm bảo chất lượng & Kiểm thử phần mềm\B1906430\Kiểm thử thủ công\Thuc hanh kiem thu PM thu cong cho SV\QuanLyBanHang 1.0 - Copy (2)\QuanLyBanHang\obj\Debug\QuanLyBanHang.exe
+D:\Đảm bảo chất lượng & Kiểm thử phần mềm\B1906430\Kiểm thử thủ công\Thuc hanh kiem thu PM thu cong cho SV\QuanLyBanHang 1.0 - Copy (2)\QuanLyBanHang\obj\Debug\QuanLyBanHang.pdb
+D:\D\QuanLyBanHang 1.0\QuanLyBanHang\bin\Debug\QuanLyBanHang.exe.config
+D:\D\QuanLyBanHang 1.0\QuanLyBanHang\bin\Debug\QuanLyBanHang.exe
+D:\D\QuanLyBanHang 1.0\QuanLyBanHang\bin\Debug\QuanLyBanHang.pdb
+D:\D\QuanLyBanHang 1.0\QuanLyBanHang\obj\Debug\QuanLyBanHang.csproj.AssemblyReference.cache
+D:\D\QuanLyBanHang 1.0\QuanLyBanHang\obj\Debug\QuanLyBanHang.Form1.resources
+D:\D\QuanLyBanHang 1.0\QuanLyBanHang\obj\Debug\QuanLyBanHang.Form2.resources
+D:\D\QuanLyBanHang 1.0\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmHoaDon.resources
+D:\D\QuanLyBanHang 1.0\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmHoaDonTheoKhachHang.resources
+D:\D\QuanLyBanHang 1.0\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmKhachHangTheoThanhPho.resources
+D:\D\QuanLyBanHang 1.0\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmKhachHang.resources
+D:\D\QuanLyBanHang 1.0\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmPhienBan.resources
+D:\D\QuanLyBanHang 1.0\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmThanhPho.resources
+D:\D\QuanLyBanHang 1.0\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmChiTietHoaDon.resources
+D:\D\QuanLyBanHang 1.0\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmNhanVien.resources
+D:\D\QuanLyBanHang 1.0\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmSanPham.resources
+D:\D\QuanLyBanHang 1.0\QuanLyBanHang\obj\Debug\QuanLyBanHang.Properties.Resources.resources
+D:\D\QuanLyBanHang 1.0\QuanLyBanHang\obj\Debug\QuanLyBanHang.csproj.GenerateResource.cache
+D:\D\QuanLyBanHang 1.0\QuanLyBanHang\obj\Debug\QuanLyBanHang.csproj.CoreCompileInputs.cache
+D:\D\QuanLyBanHang 1.0\QuanLyBanHang\obj\Debug\QuanLyBanHang.exe
+D:\D\QuanLyBanHang 1.0\QuanLyBanHang\obj\Debug\QuanLyBanHang.pdb
+D:\D\QuanLyBanHang 1.0 - Copy\QuanLyBanHang\bin\Debug\QuanLyBanHang.exe.config
+D:\D\QuanLyBanHang 1.0 - Copy\QuanLyBanHang\bin\Debug\QuanLyBanHang.exe
+D:\D\QuanLyBanHang 1.0 - Copy\QuanLyBanHang\bin\Debug\QuanLyBanHang.pdb
+D:\D\QuanLyBanHang 1.0 - Copy\QuanLyBanHang\obj\Debug\QuanLyBanHang.csproj.AssemblyReference.cache
+D:\D\QuanLyBanHang 1.0 - Copy\QuanLyBanHang\obj\Debug\QuanLyBanHang.Form1.resources
+D:\D\QuanLyBanHang 1.0 - Copy\QuanLyBanHang\obj\Debug\QuanLyBanHang.Form2.resources
+D:\D\QuanLyBanHang 1.0 - Copy\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmHoaDon.resources
+D:\D\QuanLyBanHang 1.0 - Copy\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmLuuTruHoaDon.resources
+D:\D\QuanLyBanHang 1.0 - Copy\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmLuuTruKhachHang.resources
+D:\D\QuanLyBanHang 1.0 - Copy\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmKhachHang.resources
+D:\D\QuanLyBanHang 1.0 - Copy\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmPhienBan.resources
+D:\D\QuanLyBanHang 1.0 - Copy\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmThanhPho.resources
+D:\D\QuanLyBanHang 1.0 - Copy\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmChiTietHoaDon.resources
+D:\D\QuanLyBanHang 1.0 - Copy\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmNhanVien.resources
+D:\D\QuanLyBanHang 1.0 - Copy\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmSanPham.resources
+D:\D\QuanLyBanHang 1.0 - Copy\QuanLyBanHang\obj\Debug\QuanLyBanHang.Properties.Resources.resources
+D:\D\QuanLyBanHang 1.0 - Copy\QuanLyBanHang\obj\Debug\QuanLyBanHang.csproj.GenerateResource.cache
+D:\D\QuanLyBanHang 1.0 - Copy\QuanLyBanHang\obj\Debug\QuanLyBanHang.csproj.CoreCompileInputs.cache
+D:\D\QuanLyBanHang 1.0 - Copy\QuanLyBanHang\obj\Debug\QuanLyBanHang.exe
+D:\D\QuanLyBanHang 1.0 - Copy\QuanLyBanHang\obj\Debug\QuanLyBanHang.pdb
+D:\D\QuanLyBanHang 2.0\QuanLyBanHang\bin\Debug\QuanLyBanHang.exe.config
+D:\D\QuanLyBanHang 2.0\QuanLyBanHang\bin\Debug\QuanLyBanHang.exe
+D:\D\QuanLyBanHang 2.0\QuanLyBanHang\bin\Debug\QuanLyBanHang.pdb
+D:\D\QuanLyBanHang 2.0\QuanLyBanHang\obj\Debug\QuanLyBanHang.csproj.AssemblyReference.cache
+D:\D\QuanLyBanHang 2.0\QuanLyBanHang\obj\Debug\QuanLyBanHang.Form1.resources
+D:\D\QuanLyBanHang 2.0\QuanLyBanHang\obj\Debug\QuanLyBanHang.Form2.resources
+D:\D\QuanLyBanHang 2.0\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmHoaDon.resources
+D:\D\QuanLyBanHang 2.0\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmKhachHang.resources
+D:\D\QuanLyBanHang 2.0\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmPhienBan.resources
+D:\D\QuanLyBanHang 2.0\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmThanhPho.resources
+D:\D\QuanLyBanHang 2.0\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmChiTietHoaDon.resources
+D:\D\QuanLyBanHang 2.0\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmNhanVien.resources
+D:\D\QuanLyBanHang 2.0\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmSanPham.resources
+D:\D\QuanLyBanHang 2.0\QuanLyBanHang\obj\Debug\QuanLyBanHang.Properties.Resources.resources
+D:\D\QuanLyBanHang 2.0\QuanLyBanHang\obj\Debug\QuanLyBanHang.csproj.GenerateResource.cache
+D:\D\QuanLyBanHang 2.0\QuanLyBanHang\obj\Debug\QuanLyBanHang.csproj.CoreCompileInputs.cache
+D:\D\QuanLyBanHang 2.0\QuanLyBanHang\obj\Debug\QuanLyBanHang.exe
+D:\D\QuanLyBanHang 2.0\QuanLyBanHang\obj\Debug\QuanLyBanHang.pdb
+D:\D\QuanLyBanHang 1.9\QuanLyBanHang\bin\Debug\QuanLyBanHang.exe.config
+D:\D\QuanLyBanHang 1.9\QuanLyBanHang\bin\Debug\QuanLyBanHang.exe
+D:\D\QuanLyBanHang 1.9\QuanLyBanHang\bin\Debug\QuanLyBanHang.pdb
+D:\D\QuanLyBanHang 1.9\QuanLyBanHang\obj\Debug\QuanLyBanHang.csproj.AssemblyReference.cache
+D:\D\QuanLyBanHang 1.9\QuanLyBanHang\obj\Debug\QuanLyBanHang.Form1.resources
+D:\D\QuanLyBanHang 1.9\QuanLyBanHang\obj\Debug\QuanLyBanHang.Form2.resources
+D:\D\QuanLyBanHang 1.9\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmHoaDon.resources
+D:\D\QuanLyBanHang 1.9\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmKhachHang.resources
+D:\D\QuanLyBanHang 1.9\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmPhienBan.resources
+D:\D\QuanLyBanHang 1.9\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmThanhPho.resources
+D:\D\QuanLyBanHang 1.9\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmNhanVien.resources
+D:\D\QuanLyBanHang 1.9\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmSanPham.resources
+D:\D\QuanLyBanHang 1.9\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmThongTinKhachHang.resources
+D:\D\QuanLyBanHang 1.9\QuanLyBanHang\obj\Debug\QuanLyBanHang.Properties.Resources.resources
+D:\D\QuanLyBanHang 1.9\QuanLyBanHang\obj\Debug\QuanLyBanHang.csproj.GenerateResource.cache
+D:\D\QuanLyBanHang 1.9\QuanLyBanHang\obj\Debug\QuanLyBanHang.csproj.CoreCompileInputs.cache
+D:\D\QuanLyBanHang 1.9\QuanLyBanHang\obj\Debug\QuanLyBanHang.exe
+D:\D\QuanLyBanHang 1.9\QuanLyBanHang\obj\Debug\QuanLyBanHang.pdb
+D:\D\QuanLyBanHang 1.9\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmChiTietHoaDon1.resources
+D:\D\QuanLyBanHang 1.9\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmTimKiemHoaDonTheoKhachHang.resources
+D:\D\QuanLyBanHang 1.9\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmTimKiemHoaDonTheoNhanVien.resources
+D:\D\QuanLyBanHang 1.9\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmChiTietHoaDon.resources
+D:\D\QuanLyBanHang 2.0\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmTimKiemHoaDonTheoKhachHang.resources
+D:\D\QuanLyBanHang 2.0\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmTimKiemHoaDonTheoNhanVien.resources
+D:\D\QuanLyBanHang 2.0\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmChiTietHoaDon1.resources
+D:\D\QuanLyBanHang 2.0\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmThongTinKhachHang.resources
+D:\D\QuanLyBanHang 2.1\QuanLyBanHang\bin\Debug\QuanLyBanHang.exe.config
+D:\D\QuanLyBanHang 2.1\QuanLyBanHang\bin\Debug\QuanLyBanHang.exe
+D:\D\QuanLyBanHang 2.1\QuanLyBanHang\bin\Debug\QuanLyBanHang.pdb
+D:\D\QuanLyBanHang 2.1\QuanLyBanHang\obj\Debug\QuanLyBanHang.csproj.AssemblyReference.cache
+D:\D\QuanLyBanHang 2.1\QuanLyBanHang\obj\Debug\QuanLyBanHang.Form1.resources
+D:\D\QuanLyBanHang 2.1\QuanLyBanHang\obj\Debug\QuanLyBanHang.Form2.resources
+D:\D\QuanLyBanHang 2.1\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmChiTietHoaDon.resources
+D:\D\QuanLyBanHang 2.1\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmHoaDon.resources
+D:\D\QuanLyBanHang 2.1\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmTimKiemHoaDonTheoKhachHang.resources
+D:\D\QuanLyBanHang 2.1\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmTimKiemHoaDonTheoNhanVien.resources
+D:\D\QuanLyBanHang 2.1\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmKhachHang.resources
+D:\D\QuanLyBanHang 2.1\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmPhienBan.resources
+D:\D\QuanLyBanHang 2.1\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmThanhPho.resources
+D:\D\QuanLyBanHang 2.1\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmChiTietHoaDon1.resources
+D:\D\QuanLyBanHang 2.1\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmNhanVien.resources
+D:\D\QuanLyBanHang 2.1\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmSanPham.resources
+D:\D\QuanLyBanHang 2.1\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmThongTinKhachHang.resources
+D:\D\QuanLyBanHang 2.1\QuanLyBanHang\obj\Debug\QuanLyBanHang.Properties.Resources.resources
+D:\D\QuanLyBanHang 2.1\QuanLyBanHang\obj\Debug\QuanLyBanHang.csproj.GenerateResource.cache
+D:\D\QuanLyBanHang 2.1\QuanLyBanHang\obj\Debug\QuanLyBanHang.csproj.CoreCompileInputs.cache
+D:\D\QuanLyBanHang 2.1\QuanLyBanHang\obj\Debug\QuanLyBanHang.exe
+D:\D\QuanLyBanHang 2.1\QuanLyBanHang\obj\Debug\QuanLyBanHang.pdb
+D:\App môn bảo trì\QuanLyBanHang 2.1\QuanLyBanHang\bin\Debug\QuanLyBanHang.exe.config
+D:\App môn bảo trì\QuanLyBanHang 2.1\QuanLyBanHang\bin\Debug\QuanLyBanHang.exe
+D:\App môn bảo trì\QuanLyBanHang 2.1\QuanLyBanHang\bin\Debug\QuanLyBanHang.pdb
+D:\App môn bảo trì\QuanLyBanHang 2.1\QuanLyBanHang\obj\Debug\QuanLyBanHang.csproj.AssemblyReference.cache
+D:\App môn bảo trì\QuanLyBanHang 2.1\QuanLyBanHang\obj\Debug\QuanLyBanHang.csproj.SuggestedBindingRedirects.cache
+D:\App môn bảo trì\QuanLyBanHang 2.1\QuanLyBanHang\obj\Debug\QuanLyBanHang.Form1.resources
+D:\App môn bảo trì\QuanLyBanHang 2.1\QuanLyBanHang\obj\Debug\QuanLyBanHang.Form2.resources
+D:\App môn bảo trì\QuanLyBanHang 2.1\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmChiTietHoaDon.resources
+D:\App môn bảo trì\QuanLyBanHang 2.1\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmHoaDon.resources
+D:\App môn bảo trì\QuanLyBanHang 2.1\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmTimKiemHoaDonTheoKhachHang.resources
+D:\App môn bảo trì\QuanLyBanHang 2.1\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmTimKiemHoaDonTheoNhanVien.resources
+D:\App môn bảo trì\QuanLyBanHang 2.1\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmKhachHang.resources
+D:\App môn bảo trì\QuanLyBanHang 2.1\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmPhienBan.resources
+D:\App môn bảo trì\QuanLyBanHang 2.1\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmThanhPho.resources
+D:\App môn bảo trì\QuanLyBanHang 2.1\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmChiTietHoaDon1.resources
+D:\App môn bảo trì\QuanLyBanHang 2.1\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmNhanVien.resources
+D:\App môn bảo trì\QuanLyBanHang 2.1\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmSanPham.resources
+D:\App môn bảo trì\QuanLyBanHang 2.1\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmThongTinKhachHang.resources
+D:\App môn bảo trì\QuanLyBanHang 2.1\QuanLyBanHang\obj\Debug\QuanLyBanHang.Properties.Resources.resources
+D:\App môn bảo trì\QuanLyBanHang 2.1\QuanLyBanHang\obj\Debug\QuanLyBanHang.csproj.GenerateResource.cache
+D:\App môn bảo trì\QuanLyBanHang 2.1\QuanLyBanHang\obj\Debug\QuanLyBanHang.csproj.CoreCompileInputs.cache
+D:\App môn bảo trì\QuanLyBanHang 2.1\QuanLyBanHang\obj\Debug\QuanLyBanHang.exe
+D:\App môn bảo trì\QuanLyBanHang 2.1\QuanLyBanHang\obj\Debug\QuanLyBanHang.pdb
